@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 main branch
 main branch
+=======
+develop branch
+develop branch
+>>>>>>> develop
